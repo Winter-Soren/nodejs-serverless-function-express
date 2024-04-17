@@ -6,7 +6,7 @@
 
 ## About
 
-This humble template facilitates the creation of a NodeJS serverless function with Express, ideally for deployment on Vercel. 
+This template facilitates the creation of a NodeJS serverless function with Express, ideally for deployment on Vercel. 
 
 Feel free to tailor the code to your requirements. However, please bear in mind that this template is optimized for Vercel deployment. If you intend to deploy it elsewhere (as a serverless function), some modifications may be necessary.
 
