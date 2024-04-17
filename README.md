@@ -6,9 +6,9 @@
 
 ## About
 
-This is a template for creating a NodeJS serverless function with Express. It is designed to be deployed on Vercel. 
+This humble template facilitates the creation of a NodeJS serverless function with Express, ideally for deployment on Vercel. 
 
-You are free to modify the code to suit your needs. But please note that this template is designed to be deployed on Vercel. If you want to deploy it on other platforms (as serverless), you may need to modify the code accordingly.
+Feel free to tailor the code to your requirements. However, please bear in mind that this template is optimized for Vercel deployment. If you intend to deploy it elsewhere (as a serverless function), some modifications may be necessary.
 
 ## How to use this template:
 
@@ -45,13 +45,8 @@ npm run dev
 ```
 
 
+This template incorporates API Server utilities:
 
-
-Includes API Server utilities:
-
-* [morgan](https://www.npmjs.com/package/morgan) - to log HTTP requests
-* [helmet](https://www.npmjs.com/package/helmet) - to secure Express apps by setting various HTTP headers
-* [cors](https://www.npmjs.com/package/cors) - to enable CORS with various options
-
-
-
+* [morgan](https://www.npmjs.com/package/morgan) - for logging HTTP requests
+* [helmet](https://www.npmjs.com/package/helmet) - to enhance Express app security by configuring various HTTP headers
+* [cors](https://www.npmjs.com/package/cors) - for enabling CORS with versatile options
